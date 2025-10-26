@@ -183,7 +183,8 @@
             
             <div class="emphasis">
                 Permítasenos concluir esta comunicación con un axioma que, aunque debería ser patente, parece haberse extraviado en sus memorandos internos: La seguridad de la información en el siglo XXI no es un lujo suntuario ni un capricho presupuestario. Es, quiéralo o no, el cimiento mismo sobre el cual descansa la totalidad de su continuidad operativa y su credibilidad en el mercado.
-            </div>            
+            </div>   
+            <p>Te parece bien 47 cm Mathias Milagro ?</p>         
             <p class="signature">gstxx | DEFACE PERÚ</p>
         </div>
         
