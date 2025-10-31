@@ -176,6 +176,7 @@
             <p>Cada vez más peruanos se están hartando. Unos gritan en las calles, otros desde las redes, otros desde la trinchera digital. No es simple protesta, es la señal de que el pueblo está abriendo los ojos. El Perú no es de ellos, es de los que trabajan, de los que no se rinden, de los que no se venden.</p>
             
             <p>Ellos creen que pueden seguir jugando con nosotros, pero su tiempo se acorta. Porque cuando el pueblo se une, ya no hay sobre ni poder que lo frene.</p>
+            <p>RIBE ctm</p>
             
             <p>#UnHackeoUnMensaje</p>
             <p class="signature">gstxx | DEFACE PERÚ</p>
